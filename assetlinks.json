@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.howl",
+      "sha256_cert_fingerprints": [
+        "25:38:6B:5C:19:71:D1:7B:49:F7:00:A4:C0:3F:75:3C:B5:EC:A2:76:75:6E:B7:2F:08:64:59:ED:FF:53:99:93"
+      ]
+    }
+  }
+]
